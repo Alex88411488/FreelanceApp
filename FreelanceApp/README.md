@@ -10,6 +10,8 @@
 - GitHub Actions workflow для сборки на двух платформах.
 - README и badge статуса workflow.
 
+  [![Build and Publish](https://github.com/Alex88411488/MyConsoleApp/actions/workflows/build.yml/badge.svg)](https://github.com/Alex88411488/MyConsoleApp/actions/workflows/build.yml)
+
 ## Быстрый старт
 1. Клонируйте репозиторий.
 2. Создайте файл `appsettings.json` (пример в проекте) и поместите корректную строку подключения:
